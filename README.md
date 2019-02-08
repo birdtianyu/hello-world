@@ -7,7 +7,7 @@ https://wangdoc.com/javascript
 # AI算法工程师手册
 http://www.huaxiaozhuan.com/
 
-# Xiu-Shen WEI（魏秀参）profile
+# Xiu-Shen WEI profile
 http://lamda.nju.edu.cn/weixs/?AspxAutoDetectCookieSupport=1
 
 # Blender游戏引擎
