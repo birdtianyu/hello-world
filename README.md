@@ -1,5 +1,5 @@
 # hello-world
-test my project
+This is my first project for learning CS.
 
 # Javascript 教程
 https://wangdoc.com/javascript
