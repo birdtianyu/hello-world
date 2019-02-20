@@ -10,7 +10,7 @@ http://www.huaxiaozhuan.com/
 # Xiu-Shen WEI profile
 http://lamda.nju.edu.cn/weixs/?AspxAutoDetectCookieSupport=1
 
-# Blender游戏引擎
+# Blender游戏引擎(Python)
 https://www.blender.org
 
 # Google Sites
