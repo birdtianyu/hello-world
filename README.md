@@ -25,3 +25,6 @@ https://charlesliuyx.github.io/2017/10/06/%E3%80%90%E7%9B%B4%E8%A7%82%E8%AF%A6%E
 # 秒懂词向量Word2vec的本质
 https://zhuanlan.zhihu.com/p/26306795
 
+# JavaScript深入之从原型到原型链
+https://github.com/mqyqingfeng/Blog/issues/2
+
