@@ -37,6 +37,7 @@ https://kanezaki.github.io/media/CRESTSeminar20181030_AsakoKanezaki.pdf
 
 # 多维高斯分布是如何由一维发展而来的？
 https://www.zhihu.com/question/36339816
+https://www.datalearner.com/blog/1051485590815771
 
 # 多元正态分布PPT
 http://staff.ustc.edu.cn/~zwp/teach/MVA/Lec4_slides.pdf
