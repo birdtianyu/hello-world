@@ -31,6 +31,7 @@ https://zhuanlan.zhihu.com/p/26306795
 # 有关3D模型与2D平面图像共同识别的灵感
 https://www.mi.t.u-tokyo.ac.jp/kanezaki/pdf/3D_and_weaklearning.pdf
 
-https://kanezaki.github.io/
+https://kanezaki.github.io
+
 https://kanezaki.github.io/media/CRESTSeminar20181030_AsakoKanezaki.pdf
 
