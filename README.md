@@ -42,3 +42,5 @@ https://www.datalearner.com/blog/1051485590815771
 # 多元正态分布PPT
 http://staff.ustc.edu.cn/~zwp/teach/MVA/Lec4_slides.pdf
 
+# 判定模型 VS 生成模型
+![image](./images/判定模型VS生成模型.jpg)
