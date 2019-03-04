@@ -44,3 +44,10 @@ http://staff.ustc.edu.cn/~zwp/teach/MVA/Lec4_slides.pdf
 
 # 判定模型 VS 生成模型
 ![image](./images/判定模型VS生成模型.jpg)
+
+# 数学之美番外篇：平凡而又神奇的贝叶斯方法 
+http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/
+
+# 如何通俗地理解“最大似然估计法”
+https://www.matongxue.com/madocs/447.html
+
