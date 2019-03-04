@@ -51,3 +51,5 @@ http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/
 # 如何通俗地理解“最大似然估计法”
 https://www.matongxue.com/madocs/447.html
 
+# 支持向量机通俗导论（理解SVM的三层境界）
+https://blog.csdn.net/v_july_v/article/details/7624837
