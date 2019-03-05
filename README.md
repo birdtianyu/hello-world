@@ -55,6 +55,7 @@ https://www.matongxue.com/madocs/447.html
 https://blog.csdn.net/v_july_v/article/details/7624837
 
 # 贝塔分布（Beta distribution）
+<math>\frac{x^{\alpha-1}(1-x)^{\beta-1}} {\mathrm{B}(\alpha,\beta)}\!</math>
 ![image](./images/Beta0.png)
 ![image](./images/Beta.png)
 
