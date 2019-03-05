@@ -55,7 +55,7 @@ https://www.matongxue.com/madocs/447.html
 https://blog.csdn.net/v_july_v/article/details/7624837
 
 # 贝塔分布（Beta distribution）
-<div align=center><img width="288" height="149" src="./images/BlackBeta.png"/></div>
+<!--<div align=center><img width="288" height="149" src="./images/BlackBeta.png"/></div>-->
 ![image](./images/Beta0.png)
 ![image](./images/Beta.png)
 
