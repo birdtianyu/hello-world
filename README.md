@@ -55,7 +55,7 @@ https://www.matongxue.com/madocs/447.html
 https://blog.csdn.net/v_july_v/article/details/7624837
 
 # 贝塔分布（Beta distribution）
-![](http://latex.codecogs.com/gif.latex?$$\begin{aligned}f(x;\alpha%20,\beta%20)&={\frac%20%20{x^{{\alpha%20-1}}(1-x)^{{\beta%20-1}}}{\int%20_{0}^{1}u^{{\alpha%20-1}}(1-u)^{{\beta%20-1}}\,du}}\\[6pt]&={\frac%20%20{\Gamma%20(\alpha%20+\beta%20)}{\Gamma%20(\alpha%20)\Gamma%20(\beta%20)}}\,x^{{\alpha%20-1}}(1-x)^{{\beta%20-1}}\\[6pt]&={\frac%20%20{1}{{\mathrm%20%20{B}}(\alpha%20,\beta%20)}}\,x^{{\alpha%20-1}}(1-x)^{{\beta%20-1}}\end{aligned}$$)
+![](http://latex.codecogs.com/gif.latex?\\\begin{aligned}f(x;\alpha%20,\beta%20)&={\frac%20%20{x^{{\alpha%20-1}}(1-x)^{{\beta%20-1}}}{\int%20_{0}^{1}u^{{\alpha%20-1}}(1-u)^{{\beta%20-1}}\,du}}\\[6pt]&={\frac%20%20{\Gamma%20(\alpha%20+\beta%20)}{\Gamma%20(\alpha%20)\Gamma%20(\beta%20)}}\,x^{{\alpha%20-1}}(1-x)^{{\beta%20-1}}\\[6pt]&={\frac%20%20{1}{{\mathrm%20%20{B}}(\alpha%20,\beta%20)}}\,x^{{\alpha%20-1}}(1-x)^{{\beta%20-1}}\end{aligned})
 ![image](./images/Beta0.png)
 ![image](./images/Beta.png)
 
