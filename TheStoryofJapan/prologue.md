@@ -14,7 +14,7 @@
 活动时间算作自由时间。
 
 2.
-![](http://latex.codecogs.com/gif.latex?$$\begin{aligned}f(x;\alpha%20,\beta%20)&={\frac%20%20{x^{{\alpha%20-1}}(1-x)^{{\beta%20-1}}}{\int%20_{0}^{1}u^{{\alpha%20-1}}(1-u)^{{\beta%20-1}}\,du}}\\[6pt]&={\frac%20%20{\Gamma%20(\alpha%20+\beta%20)}{\Gamma%20(\alpha%20)\Gamma%20(\beta%20)}}\,x^{{\alpha%20-1}}(1-x)^{{\beta%20-1}}\\[6pt]&={\frac%20%20{1}{{\mathrm%20%20{B}}(\alpha%20,\beta%20)}}\,x^{{\alpha%20-1}}(1-x)^{{\beta%20-1}}\end{aligned}$$)
+![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
 
 
