@@ -15,9 +15,7 @@
 
 2.
 ![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
-
-
-<p align="center"><img src="https://latex.codecogs.com/gif.latex?&#x5C;begin{aligned}f(x;&#x5C;alpha%20,&#x5C;beta%20)&amp;={&#x5C;frac%20%20{x^{{&#x5C;alpha%20-1}}(1-x)^{{&#x5C;beta%20-1}}}{&#x5C;int%20_{0}^{1}u^{{&#x5C;alpha%20-1}}(1-u)^{{&#x5C;beta%20-1}}&#x5C;,du}}&#x5C;&#x5C;[6pt]&amp;={&#x5C;frac%20%20{&#x5C;Gamma%20(&#x5C;alpha%20+&#x5C;beta%20)}{&#x5C;Gamma%20(&#x5C;alpha%20)&#x5C;Gamma%20(&#x5C;beta%20)}}&#x5C;,x^{{&#x5C;alpha%20-1}}(1-x)^{{&#x5C;beta%20-1}}&#x5C;&#x5C;[6pt]&amp;={&#x5C;frac%20%20{1}{{&#x5C;mathrm%20%20{B}}(&#x5C;alpha%20,&#x5C;beta%20)}}&#x5C;,x^{{&#x5C;alpha%20-1}}(1-x)^{{&#x5C;beta%20-1}}&#x5C;end{aligned}"/></p>  
+ 
 
 
 
