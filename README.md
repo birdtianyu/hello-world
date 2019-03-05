@@ -55,6 +55,7 @@ https://www.matongxue.com/madocs/447.html
 https://blog.csdn.net/v_july_v/article/details/7624837
 
 # 贝塔分布（Beta distribution）
+$$\begin{aligned}f(x;\alpha ,\beta )&={\frac  {x^{{\alpha -1}}(1-x)^{{\beta -1}}}{\int _{0}^{1}u^{{\alpha -1}}(1-u)^{{\beta -1}}\,du}}\\[6pt]&={\frac  {\Gamma (\alpha +\beta )}{\Gamma (\alpha )\Gamma (\beta )}}\,x^{{\alpha -1}}(1-x)^{{\beta -1}}\\[6pt]&={\frac  {1}{{\mathrm  {B}}(\alpha ,\beta )}}\,x^{{\alpha -1}}(1-x)^{{\beta -1}}\end{aligned}$$
 ![image](./images/Beta0.png)
 ![image](./images/Beta.png)
 
