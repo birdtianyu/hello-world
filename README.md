@@ -64,9 +64,11 @@ https://ics.media/tutorial-createjs/basic.html
 
 # Three.js教程
 中文（青春热血）
-http//www.hewebgl.com/article/articledir/1
+http://www.hewebgl.com/article/articledir/1
+
 日语（较详细）
 https://ics.media/tutorial-three/index.html
+
 官网
 https://threejs.org/
 
