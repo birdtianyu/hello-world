@@ -59,11 +59,16 @@ https://blog.csdn.net/v_july_v/article/details/7624837
 ![image](./images/Beta0.png)
 ![image](./images/Beta.png)
 
-# HTML5 と CreateJS で学ぶインタラクションデザイン
+# 一些非常帅气的Javascript网站
 https://ics.media/tutorial-createjs/basic.html
 
-
-
+# Three.js教程
+中文（青春热血）
+http//www.hewebgl.com/article/articledir/1
+日语（较详细）
+https://ics.media/tutorial-three/index.html
+官网
+https://threejs.org/
 
 
 
