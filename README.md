@@ -83,3 +83,6 @@ https://docs.dgl.ai/index.html
 
 # ThingJS - 物联网3D可视化PaaS平台
 http://www.thingjs.com/guide/?m=main
+
+# 一个非常不错的CNN概要：Convolutional Neural Networks - Basics
+https://mlnotebook.github.io/post/CNN1/
