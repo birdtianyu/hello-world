@@ -75,3 +75,11 @@ https://threejs.org/
 # d3.js实现力导向图圈选框选
 https://jsrun.net/5TqKp/edit?utm_source=website
 
+# pytorch 官网
+https://pytorch.org/
+
+# DGL 
+https://docs.dgl.ai/index.html
+
+# ThingJS - 物联网3D可视化PaaS平台
+http://www.thingjs.com/guide/?m=main
