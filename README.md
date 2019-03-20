@@ -91,3 +91,6 @@ https://mlnotebook.github.io/post/CNN1/
 https://arxiv.org/pdf/1801.04016.pdf
 
 https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652011751&idx=1&sn=689d2d8b76cca566636d11b18c4e56e4&chksm=f1210816c6568100f828d903263d1af7d4d11e181b3c395d2a2449557c5d62ed92f8ebdfc404&scene=21
+
+# Google浏览器插件
+沙拉查词 Octotree Github File Icons  Smallpdf MathJax for Github  GitHub Repository Size
