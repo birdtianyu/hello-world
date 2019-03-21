@@ -97,3 +97,11 @@ https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652011751&idx=1&sn=689d2d
 
 # CodePen
 https://codepen.io/hello
+
+# 解像度 (分辨率)
+1. dpi
+dots per inchの略（入出力機器（プリンターなど）の解像度）
+![image](https://blog.karasuneko.com/wp-content/uploads/2014/09/img140904_1.png)
+2. ppi（画像解像度）
+pixels per inchの略
+![image](https://blog.karasuneko.com/wp-content/uploads/2014/09/img140904_2.png)
