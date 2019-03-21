@@ -107,3 +107,6 @@ pixels per inchの略（画像解像度）　　　
 ![image](https://blog.karasuneko.com/wp-content/uploads/2014/09/img140904_2.png)
 
 ※dpiとppiは、ほぼ同じ意味で使われる
+
+# 裁减SVG文件大小的工具
+https://jakearchibald.github.io/svgomg/
