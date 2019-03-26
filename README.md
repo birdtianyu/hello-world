@@ -110,3 +110,6 @@ pixels per inchの略（画像解像度）　　　
 
 # 裁减SVG文件大小的工具
 https://jakearchibald.github.io/svgomg/
+
+# 傅里叶变换
+![image](https://pic1.zhimg.com/v2-491dfd8467f994d8fe29d58076364863_1200x500.jpg)
