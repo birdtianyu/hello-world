@@ -113,3 +113,6 @@ https://jakearchibald.github.io/svgomg/
 
 # 傅里叶变换
 ![image](https://pic1.zhimg.com/v2-491dfd8467f994d8fe29d58076364863_1200x500.jpg)
+
+# WebGL教程
+https://webglfundamentals.org/webgl/lessons/zh_cn/webgl-setup-and-installation.html
