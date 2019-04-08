@@ -119,3 +119,7 @@ https://webglfundamentals.org/webgl/lessons/zh_cn/webgl-setup-and-installation.h
 
 # Sphinx创建文档
 http://www.sphinx-doc.org
+
+# 点，边，面，多边形，表面
+![image](https://en.wikipedia.org/wiki/Polygon_mesh#/media/File:Mesh_overview.svg)
+
