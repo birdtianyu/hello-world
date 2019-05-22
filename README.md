@@ -123,3 +123,5 @@ http://www.sphinx-doc.org
 # 点，边，面，多边形，表面
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mesh_overview.svg/1920px-Mesh_overview.svg.png)
 
+# 卡尔曼滤波
+预测＋测量 N(x, u1, O1)N(x, u2, O2)=N(x, u3, O3) 
