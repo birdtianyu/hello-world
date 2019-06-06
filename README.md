@@ -134,3 +134,6 @@ https://www.squarespace.com/
 
 # Javascript Svg动画控制插件
 http://snapsvg.io/
+
+# 2Dによる立体表現「Live2D」
+https://www.live2d.com/ja/
