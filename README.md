@@ -128,3 +128,6 @@ http://www.sphinx-doc.org
 
 # 一个做网站的网站
 https://www.squarespace.com/
+
+# かっこいいメールアドレスの書き方
+ □・──────────────────────────・□
