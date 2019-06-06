@@ -131,3 +131,6 @@ https://www.squarespace.com/
 
 # かっこいいメールアドレスの書き方
  □・──────────────────────────・□
+
+# Javascript Svg动画控制插件
+http://snapsvg.io/
