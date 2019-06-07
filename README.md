@@ -137,3 +137,6 @@ http://snapsvg.io/
 
 # 2Dによる立体表現「Live2D」
 https://www.live2d.com/ja/
+
+# 日本研究統計データ
+https://research-er.jp/stats
