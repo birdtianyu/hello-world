@@ -140,3 +140,10 @@ https://www.live2d.com/ja/
 
 # 日本研究統計データ
 https://research-er.jp/stats
+
+# 样条与约束
+![image](./images/Discontinuous.jpg)
+![image](./images/Continuous.jpg)
+![image](./images/Continuous_First_Derivative.jpg)
+![image](./images/Continuous_Second_Derivative.jpg)
+
