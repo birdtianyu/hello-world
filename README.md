@@ -144,3 +144,5 @@ https://research-er.jp/stats
 # 样条与约束
 https://zhuanlan.zhihu.com/p/34825299
 
+# C语言空指针NULL以及void指针
+https://blog.csdn.net/shuimanting520/article/details/51360139
