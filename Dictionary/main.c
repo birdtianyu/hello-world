@@ -69,6 +69,10 @@ int main() {
 
 	// printf("%d\n", &p);
 	// printf("%d\n", pp);
+	
+	// CELL *new_head1 = head1->next;
+	// head1->next = head2;
+	// CELL *new_head2 = head1; 
 
 	return 0;
 }
