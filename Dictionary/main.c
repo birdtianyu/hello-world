@@ -73,6 +73,11 @@ int main() {
 	// CELL *new_head1 = head1->next;
 	// head1->next = head2;
 	// CELL *new_head2 = head1; 
+	
+	// p3 = p2->next;
+	// p2->next = p1;
+	// p1 = p2;
+	// p2 = p3;
 
 	return 0;
 }
