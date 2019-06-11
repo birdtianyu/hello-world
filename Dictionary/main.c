@@ -62,6 +62,13 @@ int main() {
 	head = insert1(head, 50);
 
 	test(head);
+        
+	// 注意什么是空指针
+	// int *p = NULL;
+	// int **pp = &p;
+
+	// printf("%d\n", &p);
+	// printf("%d\n", pp);
 
 	return 0;
 }
