@@ -146,3 +146,6 @@ https://zhuanlan.zhihu.com/p/34825299
 
 # C语言空指针NULL以及void指针
 https://blog.csdn.net/shuimanting520/article/details/51360139
+
+# 极大似然估计与贝叶斯估计
+https://blog.csdn.net/liu1194397014/article/details/52766760
