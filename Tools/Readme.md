@@ -11,7 +11,11 @@
 L2_Regularizer.py
 ![image](https://github.com/birdtianyu/hello-world/blob/master/Tools/L1%20Regularizer%20%26%20L2%20Regularizer.png)
 
-3. 三次样条插值
+3. 三次样条插值:
 
 Cubic_Spline_Interpolation.py
 
+4.Beta分布
+
+Beta.py
+![image](https://github.com/birdtianyu/hello-world/blob/master/Tools/Beta_Figure_1.png)
