@@ -3,7 +3,7 @@
    Gauss.py
 2. L1&L2正则化: 
 L2_Regularizer.py
-![image](./Tools/L1 Regularizer & L2 Regularizer.png)
+![image](./L1 Regularizer & L2 Regularizer.png)
 3. 三次样条插值
 Cubic_Spline_Interpolation.py
 
