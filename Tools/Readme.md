@@ -3,6 +3,9 @@
 
   Gauss.py
   
+![image](https://github.com/birdtianyu/hello-world/blob/master/Tools/Gauss_Figure_1.png)
+![image](https://github.com/birdtianyu/hello-world/blob/master/Tools/Gauss_Figure_2.png)
+
 2. L1&L2正则化: 
 
 L2_Regularizer.py
