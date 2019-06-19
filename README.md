@@ -152,6 +152,7 @@ https://blog.csdn.net/liu1194397014/article/details/52766760
 
 # 奇异值分解
 https://blog.csdn.net/qq_38734403/article/details/80512336
+https://www.cnblogs.com/LeftNotEasy/archive/2011/01/19/svd-and-applications.html
 ![image](./images/奇异值分解.png)
 
 # Householder变换与QR分解
