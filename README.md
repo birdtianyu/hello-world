@@ -6,7 +6,7 @@ https://wangdoc.com/javascript
 
 # JavaScript深入之从原型到原型链
 https://github.com/mqyqingfeng/Blog/issues/2
-![image](./images/Javascript-Prototype.png)
+![image](./images/Javascript&#32;Prototype.png)
 
 # AI算法工程师手册
 http://www.huaxiaozhuan.com/
@@ -162,4 +162,4 @@ https://www.cnblogs.com/daniel-D/p/3208534.html
 http://takashiijiri.com/study/miscs/QRfactorization.htm
 
 # CMOS SRAM
-![image](./images/CMOS-SRAM.png)
+![image](./images/CMOS&#32;SRAM.png)
