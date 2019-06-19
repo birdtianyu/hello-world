@@ -149,3 +149,11 @@ https://blog.csdn.net/shuimanting520/article/details/51360139
 
 # 极大似然估计与贝叶斯估计
 https://blog.csdn.net/liu1194397014/article/details/52766760
+
+# 奇异值分解
+https://www.cnblogs.com/LeftNotEasy/archive/2011/01/19/svd-and-applications.html
+![image](./images/奇异值分解.png)
+
+# Householder变换与QR分解
+https://www.cnblogs.com/daniel-D/p/3208534.html
+http://takashiijiri.com/study/miscs/QRfactorization.htm
