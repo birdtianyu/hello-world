@@ -55,6 +55,8 @@ https://www.matongxue.com/madocs/447.html
 # 支持向量机通俗导论（理解SVM的三层境界）
 https://blog.csdn.net/v_july_v/article/details/7624837
 
+https://charlesliuyx.github.io/2017/09/19/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BASVM%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
+
 # 贝塔分布（Beta distribution）
 <!--<div align=center><img width="288" height="149" src="./images/BlackBeta.png"/></div>-->
 ![image](./images/Beta0.png)
