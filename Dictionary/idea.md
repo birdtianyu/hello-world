@@ -7,3 +7,7 @@ https://ryosuke0711.hatenablog.com/entry/2019/04/07/161454
 https://standbk.co/
 
 4. 标准日本语- 新版标日电子书- 最好用的日语学习APP
+
+5. 青空朗読（名作を聴こう。無料の小説朗読アプリ。）
+
+6. 青空文庫(Ad or 無料版)
