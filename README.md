@@ -165,3 +165,6 @@ http://takashiijiri.com/study/miscs/QRfactorization.htm
 
 # CMOS SRAM
 ![image](./images/CMOS&#32;SRAM.png)
+
+# Excel構造
+![image](./images/Excel構造.png)
