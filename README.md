@@ -170,4 +170,4 @@ http://takashiijiri.com/study/miscs/QRfactorization.htm
 ![image](./images/Excel構造.png)
 
 # 手写向量表现
-![image](./images/向量.png)
+![image](./images/向量.jpg)
