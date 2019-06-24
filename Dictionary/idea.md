@@ -2,3 +2,8 @@
 
 2. 文系社会人から東大情報理工に進学する話(2019冬入試)
 https://ryosuke0711.hatenablog.com/entry/2019/04/07/161454
+
+3. 本のアプリStand
+https://standbk.co/
+
+4. 标准日本语- 新版标日电子书- 最好用的日语学习APP
