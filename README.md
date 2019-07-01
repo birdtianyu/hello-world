@@ -183,3 +183,6 @@ https://www.jstage.jst.go.jp/browse/-char/ja
 
 # Introduction to Automata Theory, Languages, and Computation
 http://infolab.stanford.edu/~ullman/ialcsols/sols.html
+
+# オープンコースウェア(OCW)
+https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%A6%E3%82%A7%E3%82%A2
