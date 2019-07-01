@@ -90,6 +90,9 @@ http://www.thingjs.com/guide/?m=main
 # 一个非常不错的CNN概要：Convolutional Neural Networks - Basics
 https://mlnotebook.github.io/post/CNN1/
 
+最完美的CNN解释
+http://cs231n.github.io/convolutional-networks/
+
 # 《机器学习的理论障碍》（Theoretical impediments to machine learning）贝叶斯网络之父
 https://arxiv.org/pdf/1801.04016.pdf
 
