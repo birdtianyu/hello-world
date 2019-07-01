@@ -180,3 +180,6 @@ https://leetcode.com/
 
 # 日本学术论文网站
 https://www.jstage.jst.go.jp/browse/-char/ja
+
+# Introduction to Automata Theory, Languages, and Computation
+http://infolab.stanford.edu/~ullman/ialcsols/sols.html
