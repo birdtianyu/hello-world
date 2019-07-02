@@ -131,6 +131,9 @@ http://www.sphinx-doc.org
 
 # 卡尔曼滤波
 预测＋测量 N(x, u1, O1)N(x, u2, O2)=N(x, u3, O3) 
+![image](./images/カルマンゲイン.png)
+![image](./images/カルマンゲイン1.png)
+![image](./images/カルマンゲイン2.png)
 
 # 一个做网站的网站
 https://www.squarespace.com/
