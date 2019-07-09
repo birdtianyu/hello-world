@@ -200,3 +200,5 @@ https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%B3%E3%8
 # 使用模拟退火算法求解到点集直线距离之和最短的点
 ![image](./images/Simulated_annealing.gif)
 
+# 线性代数2次型
+http://dec3.jlu.edu.cn/webcourse/t000022/teach/chapter5/5_4.htm
