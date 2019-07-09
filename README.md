@@ -43,6 +43,9 @@ https://www.datalearner.com/blog/1051485590815771
 # 多元正态分布PPT
 http://staff.ustc.edu.cn/~zwp/teach/MVA/Lec4_slides.pdf
 
+# 多维高斯分布后验概率
+![image](./images/conditional_marginal_gaussian.png)
+
 # 判定模型 VS 生成模型
 ![image](./images/判定模型VS生成模型.jpg)
 
@@ -193,3 +196,7 @@ http://infolab.stanford.edu/~ullman/ialcsols/sols.html
 
 # オープンコースウェア(OCW)
 https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%A6%E3%82%A7%E3%82%A2
+
+# 使用模拟退火算法求解到点集直线距离之和最短的点
+![image](./images/Simulated_annealing.gif)
+
