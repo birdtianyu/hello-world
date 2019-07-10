@@ -209,4 +209,4 @@ http://math.sjtu.edu.cn/course/Matrix/
 # 矩阵的核(Ker)与像(Im)
 n\*m矩阵A: dim(Im(A)) + dim(Ker(A)) = dim(V)  dim(Im(A)) = rank A  dim(V) = n
 
-![image](https://zh.wikipedia.org/wiki/核_(线性算子)#/media/File:KerIm_2015Joz_L2.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/4/4c/KerIm_2015Joz_L2.png)
