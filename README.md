@@ -202,3 +202,6 @@ https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%B3%E3%8
 
 # 线性代数2次型
 http://dec3.jlu.edu.cn/webcourse/t000022/teach/chapter5/5_4.htm
+
+# 上海交大理学院数学系研究生课程—-矩阵理论
+http://math.sjtu.edu.cn/course/Matrix/
