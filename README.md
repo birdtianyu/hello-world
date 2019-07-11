@@ -212,3 +212,7 @@ dim(Im(A)) = rank A
 dim(V) = V
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/4/4c/KerIm_2015Joz_L2.png)
+
+# 线性代数对称矩阵
+http://www.cynhard.com/2018/10/15/LA-Symmetric-Metrices-and-Quadratic-Forms/
+
