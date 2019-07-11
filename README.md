@@ -216,3 +216,5 @@ dim(V) = V
 # 线性代数对称矩阵
 http://www.cynhard.com/2018/10/15/LA-Symmetric-Metrices-and-Quadratic-Forms/
 
+特征值与特征向量
+http://www.cynhard.com/2018/10/15/LA-Eigenvalues-and-Eigenvectors/
