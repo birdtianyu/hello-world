@@ -218,3 +218,6 @@ http://www.cynhard.com/2018/10/15/LA-Symmetric-Metrices-and-Quadratic-Forms/
 
 特征值与特征向量
 http://www.cynhard.com/2018/10/15/LA-Eigenvalues-and-Eigenvectors/
+
+# 面试算法题
+https://plushunter.github.io/2017/08/05/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3%EF%BC%885%EF%BC%89%EF%BC%9A%E5%89%91%E6%8C%87offer%E8%A7%A3%E9%A2%98%E6%8A%A5%E5%91%8A/
