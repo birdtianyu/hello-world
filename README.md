@@ -239,3 +239,12 @@ https://zh.wikipedia.org/wiki/%E5%81%8F%E5%BA%A6
 # 峰度 -> 尖度（せんど、英: kurtosis)
 https://en.wikipedia.org/wiki/Kurtosis
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Standard_symmetric_pdfs.png/1280px-Standard_symmetric_pdfs.png)
+Probability density functions for selected distributions with mean 0, variance 1 and different excess kurtosis
+
+    D: Laplace distribution, also known as the double exponential distribution, red curve (two straight lines in the log-scale plot), excess kurtosis = 3
+    S: hyperbolic secant distribution, orange curve, excess kurtosis = 2
+    L: logistic distribution, green curve, excess kurtosis = 1.2
+    N: normal distribution, black curve (inverted parabola in the log-scale plot), excess kurtosis = 0
+    C: raised cosine distribution, cyan curve, excess kurtosis = −0.593762...
+    W: Wigner semicircle distribution, blue curve, excess kurtosis = −1
+    U: uniform distribution, magenta curve (shown for clarity as a rectangle in both images), excess kurtosis = −1.2.
