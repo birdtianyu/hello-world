@@ -257,3 +257,6 @@ https://avilen.co.jp
 
 # 一番理解やすい事前分布と事後分布の関係
 https://to-kei.net/bayes/bayes-theorem/
+
+# 共役事前分布
+https://to-kei.net/bayes/conjugate-prior-distribution/
