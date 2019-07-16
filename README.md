@@ -251,3 +251,6 @@ Probability density functions for selected distributions with mean 0, variance 1
 
 # 全人類が分かる統計学
 https://to-kei.net/
+
+# 很有意思的日本初创公司
+https://avilen.co.jp
