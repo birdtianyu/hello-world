@@ -248,3 +248,6 @@ Probability density functions for selected distributions with mean 0, variance 1
     C: raised cosine distribution, cyan curve, excess kurtosis = −0.593762...
     W: Wigner semicircle distribution, blue curve, excess kurtosis = −1
     U: uniform distribution, magenta curve (shown for clarity as a rectangle in both images), excess kurtosis = −1.2.
+
+# 全人類が分かる統計学
+https://to-kei.net/
