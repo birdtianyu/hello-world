@@ -233,7 +233,7 @@ https://www.matongxue.com/madocs/412.html
 
 峰态是四阶中心距（描述分布的尖峰程度，例如正态分布峰态系数=0）
 
-# 偏度 -> 歪度（わいど, skewness）
+# 偏度 -> 歪度（わいど、英: skewness）
 https://zh.wikipedia.org/wiki/%E5%81%8F%E5%BA%A6
 
 # 峰度 -> 尖度（せんど、英: kurtosis)
