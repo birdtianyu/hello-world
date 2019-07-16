@@ -260,3 +260,6 @@ https://to-kei.net/bayes/bayes-theorem/
 
 # 共役事前分布
 https://to-kei.net/bayes/conjugate-prior-distribution/
+
+# Univariate Distribution Relationships
+http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
