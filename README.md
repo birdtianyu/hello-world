@@ -266,3 +266,7 @@ http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 
 # 概率分布与泊松分布、正态分布
 https://lrita.github.io/2018/12/28/poisson-normal-distribution/
+
+# Beta分布
+https://zhuanlan.zhihu.com/p/62657319
+https://zhuanlan.zhihu.com/p/37976562
