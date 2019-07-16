@@ -232,3 +232,6 @@ https://www.matongxue.com/madocs/412.html
 偏态是三阶中心矩（表示分布偏离对称的程度）
 
 峰态是四阶中心距（描述分布的尖峰程度，例如正态分布峰态系数=0）
+
+# 偏度
+https://zh.wikipedia.org/wiki/%E5%81%8F%E5%BA%A6
