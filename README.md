@@ -254,3 +254,6 @@ https://to-kei.net/
 
 # 很有意思的日本初创公司
 https://avilen.co.jp
+
+# 一番理解やすい事前分布と事後分布の関係
+https://to-kei.net/bayes/bayes-theorem/
