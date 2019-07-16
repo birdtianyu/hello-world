@@ -263,3 +263,6 @@ https://to-kei.net/bayes/conjugate-prior-distribution/
 
 # Univariate Distribution Relationships
 http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
+
+# 概率分布与泊松分布、正态分布
+https://lrita.github.io/2018/12/28/poisson-normal-distribution/
