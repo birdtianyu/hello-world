@@ -270,3 +270,6 @@ https://lrita.github.io/2018/12/28/poisson-normal-distribution/
 # Beta分布
 https://zhuanlan.zhihu.com/p/62657319
 https://zhuanlan.zhihu.com/p/37976562
+
+# Cauchy分布
+https://shoichimidorikawa.github.io/Lec/ProbDistr/cauchy.pdf
