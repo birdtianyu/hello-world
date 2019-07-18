@@ -274,5 +274,5 @@ https://zhuanlan.zhihu.com/p/37976562
 # Cauchy分布
 https://shoichimidorikawa.github.io/Lec/ProbDistr/cauchy.pdf
 
-# 值得学习的榜样
+# 值得学习的榜样网站
 https://tips-memo.com/prml
