@@ -279,3 +279,6 @@ https://tips-memo.com/prml
 
 # 算法可视化
 https://algorithm-visualizer.org
+
+# 统计学论文
+http://www.tina-vision.net/docs/memos_statistics.php
