@@ -282,3 +282,6 @@ https://algorithm-visualizer.org
 
 # 统计学论文
 http://www.tina-vision.net/docs/memos_statistics.php
+
+# JK Flip-flop
+![Image](https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/sequential-seq13.gif)
