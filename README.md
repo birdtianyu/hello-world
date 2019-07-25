@@ -286,3 +286,6 @@ http://www.tina-vision.net/docs/memos_statistics.php
 # JK Flip-flop
 ![Image](https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/sequential-seq13.gif)
 ![Image](http://security2600.sakura.ne.jp/main2/image4/JK-FF_timechart.png)
+
+# 東京大学論理回路
+https://www.mtl.t.u-tokyo.ac.jp/~sakai/ronri/
