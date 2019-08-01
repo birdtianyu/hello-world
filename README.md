@@ -289,3 +289,16 @@ http://www.tina-vision.net/docs/memos_statistics.php
 
 # 東京大学論理回路
 https://www.mtl.t.u-tokyo.ac.jp/~sakai/ronri/
+
+# Jordan矩阵
+Cayley-Hamilton 定理  https://ccjou.wordpress.com/2009/08/26/cayley-hamilton-%e5%ae%9a%e7%90%86/
+
+最小多项式(上)        https://ccjou.wordpress.com/2010/09/27/%e6%9c%80%e5%b0%8f%e5%a4%9a%e9%a0%85%e5%bc%8f/
+
+Jordan 形式大解读(上) https://ccjou.wordpress.com/2010/11/10/jordan-%E5%BD%A2%E5%BC%8F%E5%A4%A7%E8%A7%A3%E8%AE%80-%E4%B8%8A/
+
+最小多项式(下)        https://ccjou.wordpress.com/2010/12/13/%E6%9C%80%E5%B0%8F%E5%A4%9A%E9%A0%85%E5%BC%8F-%E4%B8%8B/
+
+Jordan 形式大解读(下) https://ccjou.wordpress.com/2010/11/17/jordan-%E5%BD%A2%E5%BC%8F%E5%A4%A7%E8%A7%A3%E8%AE%80-%E4%B8%8B/
+
+Jordan 形式大解读之寻找广义特征向量 https://ccjou.wordpress.com/2011/02/14/jordan-%e5%bd%a2%e5%bc%8f%e5%a4%a7%e8%a7%a3%e8%ae%80%e4%b9%8b%e5%b0%8b%e6%89%be%e5%bb%a3%e7%be%a9%e7%89%b9%e5%be%b5%e5%90%91%e9%87%8f/
