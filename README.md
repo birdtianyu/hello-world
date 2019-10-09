@@ -305,3 +305,6 @@ Jordan 形式大解读之寻找广义特征向量 https://ccjou.wordpress.com/20
 
 # 上海交大张志华教授公开课
 https://blog.csdn.net/harrytsz/article/details/84636274
+
+# 信息量，信息熵，交叉熵，KL散度和互信息（信息增益）
+https://blog.csdn.net/haolexiao/article/details/70142571
