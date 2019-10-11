@@ -310,6 +310,7 @@ https://blog.csdn.net/harrytsz/article/details/84636274
 https://blog.csdn.net/haolexiao/article/details/70142571
 
 # 牛顿(Newton-Raphson)迭代法的局限
+![Image](./images/牛顿迭代法.jpg)
 初始值为0， 死循环， 距离较远逼近失败
 
 ![Image](./images/牛顿迭代法失败的情况.jpg)
