@@ -308,3 +308,9 @@ https://blog.csdn.net/harrytsz/article/details/84636274
 
 # 信息量，信息熵，交叉熵，KL散度和互信息（信息增益）
 https://blog.csdn.net/haolexiao/article/details/70142571
+
+# 牛顿(Newton-Raphson)迭代法的局限
+初始值为0， 死循环， 距离较远逼近失败
+
+![Image](./images/牛顿迭代法失败的情况.jpg)
+![Image](./images/牛顿迭代法的问题.jpg)
