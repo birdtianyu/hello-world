@@ -7,3 +7,12 @@ https://ryosuke0711.hatenablog.com/entry/2019/04/07/161454
 
 4. 人工智能需要记忆，需要反馈，需要有自我调整的能力。
 
+
+https://web.vogue.tokyo/excel-csv
+
+
+https://diy-kagu.hatenablog.com/entry/2019/05/07/151626
+
+https://hamachan.info/win10-excel-text/
+
+一つのワークシートに入りきりません
