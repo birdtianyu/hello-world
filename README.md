@@ -324,3 +324,9 @@ https://blog.csdn.net/haolexiao/article/details/70142571
 www.grammarly.com
 
 Make Your Writing Shine
+ 
+# Online Japanese Accent Dictionary
+http://www.gavo.t.u-tokyo.ac.jp/ojad/
+
+# J-Stage
+日本語論文検索エンジン
