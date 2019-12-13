@@ -330,3 +330,5 @@ http://www.gavo.t.u-tokyo.ac.jp/ojad/
 
 # J-Stage
 日本語論文検索エンジン
+
+# 指切りげんまん、嘘ついたら針千本飲ます
