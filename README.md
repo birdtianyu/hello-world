@@ -332,3 +332,6 @@ http://www.gavo.t.u-tokyo.ac.jp/ojad/
 日本語論文検索エンジン
 
 # 指切りげんまん、嘘ついたら針千本飲ます
+
+# 3次多項式を因数分解する
+https://www.wikihow.jp/3%E6%AC%A1%E5%A4%9A%E9%A0%85%E5%BC%8F%E3%82%92%E5%9B%A0%E6%95%B0%E5%88%86%E8%A7%A3%E3%81%99%E3%82%8B
