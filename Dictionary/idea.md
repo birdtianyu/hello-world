@@ -16,3 +16,7 @@ https://diy-kagu.hatenablog.com/entry/2019/05/07/151626
 https://hamachan.info/win10-excel-text/
 
 一つのワークシートに入りきりません
+
+5. 教師たるもの五者たれ。
+学者・役者・易者・芸者・医者
+えきしゃ
