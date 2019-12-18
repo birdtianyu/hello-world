@@ -342,3 +342,5 @@ https://nv-tlabs.github.io/
 # Learning to Predict 3D Objects with an Interpolation-Based Renderer 利用二维图像生成三维模型
 https://nv-tlabs.github.io/DIB-R/
 
+# 残差と誤差
+![Image](./images/残差.png)
