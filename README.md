@@ -335,3 +335,10 @@ http://www.gavo.t.u-tokyo.ac.jp/ojad/
 
 # 3次多項式を因数分解する
 https://www.wikihow.jp/3%E6%AC%A1%E5%A4%9A%E9%A0%85%E5%BC%8F%E3%82%92%E5%9B%A0%E6%95%B0%E5%88%86%E8%A7%A3%E3%81%99%E3%82%8B
+
+# NVIDIA Toronto AI lab
+https://nv-tlabs.github.io/
+
+# Learning to Predict 3D Objects with an Interpolation-Based Renderer 利用二维图像生成三维模型
+https://nv-tlabs.github.io/DIB-R/
+
