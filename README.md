@@ -347,3 +347,4 @@ https://nv-tlabs.github.io/DIB-R/
 
 # Google Colaboratory (便捷式网页版Jupyter Notebook)
 https://colab.research.google.com
+https://research.google.com/seedbank/
