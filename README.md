@@ -344,3 +344,6 @@ https://nv-tlabs.github.io/DIB-R/
 
 # 残差と誤差
 ![Image](./images/残差.png)
+
+# Google Colaboratory (便捷式网页版Jupyter Notebook)
+https://colab.research.google.com
