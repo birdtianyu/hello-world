@@ -348,3 +348,6 @@ https://nv-tlabs.github.io/DIB-R/
 # Google Colaboratory (便捷式网页版Jupyter Notebook)
 https://colab.research.google.com
 https://research.google.com/seedbank/
+
+# 電子情報通信学会知識ベース　知識の森
+http://www.ieice-hbkb.org/portal/doc_178.html
