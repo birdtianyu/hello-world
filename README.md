@@ -356,3 +356,6 @@ http://www.ieice-hbkb.org/portal/doc_178.html
 
 # 日语文章批改网站
 https://lang-8.com/
+
+# コンタクトレンズ（Contact lens）
+https://www.menicon.co.jp/
