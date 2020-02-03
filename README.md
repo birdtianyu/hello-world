@@ -359,3 +359,6 @@ https://lang-8.com/
 
 # コンタクトレンズ（Contact lens）
 https://www.menicon.co.jp/
+
+# Python Cookbook Website
+https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html
