@@ -9,4 +9,5 @@ http://www.008008.jp/transport/piano/index.html
 # 2. 佐川運輸
 https://www.sagawa-exp.co.jp/send/
 
-
+# 3. 日本郵便
+https://www.post.japanpost.jp/service/index.html
