@@ -14,3 +14,6 @@ https://www.post.japanpost.jp/service/index.html
 
 # 4. どん底人生
 https://kagepon.com/life-haiagaru/
+
+# 5. 中古本　売買
+https://book.kaitori.info/?gclid=Cj0KCQjwpLfzBRCRARIsAHuj6qUdfyETltjwnjoy8grIa0QoN-TF3JZ-aaLEB4c_Cm-aZcb_WKiwMOEaAhGLEALw_wcB
