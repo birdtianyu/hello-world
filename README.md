@@ -362,3 +362,7 @@ https://www.menicon.co.jp/
 
 # Python Cookbook Website
 https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html
+
+# 感觉很不错的翻译软件
+https://www.deepl.com/translator
+
