@@ -30,3 +30,6 @@ https://www.city.machida.tokyo.jp/kurashi/hoken/nenkin/0900syosiki.html
 
 # 7. 三菱UFJ銀行貯金残高証明書発行方法
 https://www.bk.mufg.jp/tsukau/tetsuduki/zandaka/index.html
+
+
+https://www.titech.ac.jp/graduate_school/international/research_students/privately_funded.html
