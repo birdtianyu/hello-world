@@ -17,3 +17,11 @@ https://kagepon.com/life-haiagaru/
 
 # 5. 中古本　売買
 https://book.kaitori.info/?gclid=Cj0KCQjwpLfzBRCRARIsAHuj6qUdfyETltjwnjoy8grIa0QoN-TF3JZ-aaLEB4c_Cm-aZcb_WKiwMOEaAhGLEALw_wcB
+
+# 6. 引っ越し
+转出手续
+http://www.city.nagoya.jp/shiminkeizai/page/0000005184.html
+
+转入手续
+
+https://www.city.machida.tokyo.jp/kurashi/touroku/juuki/juuki03/juuki03_02.html
