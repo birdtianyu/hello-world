@@ -366,3 +366,5 @@ https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html
 # 感觉很不错的翻译软件
 https://www.deepl.com/translator
 
+# 求定积分的导数
+![Image](./images/Derivative.png)
