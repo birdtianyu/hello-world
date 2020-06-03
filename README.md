@@ -368,3 +368,7 @@ https://www.deepl.com/translator
 
 # 求定积分的导数
 ![Image](./images/Derivative.png)
+
+# State VS Status
+![Image](./images/state.png)
+![Image](./images/status.png)
