@@ -6,7 +6,7 @@ https://wangdoc.com/javascript
 
 # JavaScript深入之从原型到原型链
 https://github.com/mqyqingfeng/Blog/issues/2
-![image](./images/Javascript&#32;Prototype.png)
+![image](./images/Javascript Prototype.png)
 
 # AI算法工程师手册
 http://www.huaxiaozhuan.com/
@@ -175,7 +175,7 @@ https://www.cnblogs.com/daniel-D/p/3208534.html
 http://takashiijiri.com/study/miscs/QRfactorization.htm
 
 # CMOS SRAM
-![image](./images/CMOS&#32;SRAM.png)
+![image](./images/CMOS SRAM.png)
 
 # Excel構造
 ![image](./images/Excel構造.png)
@@ -327,7 +327,7 @@ https://lp.idiy.biz/
 https://trek.hinative.com/zh-CN
 
 Make Your Writing Shine
- 
+
 # Online Japanese Accent Dictionary
 http://www.gavo.t.u-tokyo.ac.jp/ojad/
 
@@ -373,3 +373,18 @@ https://www.deepl.com/translator
 # State VS Status
 ![Image](./images/state.png)
 ![Image](./images/status.png)
+
+
+
+# KL散度
+
+![DifferentProDistribution](./images/DifferentProDistribution.png)
+
+![KL](./images/KL.png)
+
+
+
+
+
+
+
